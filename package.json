@@ -1,0 +1,29 @@
+{
+  "name": "pug-php-filter",
+  "version": "0.0.1",
+  "description": "A php filter for pug",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidhoffman/pug-php-filter.git"
+  },
+  "keywords": [
+    "pug",
+    "php",
+    "filter",
+    "pugjs",
+    "jade"
+  ],
+  "author": "Khalid Hoffman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidhoffman/pug-php-filter/issues"
+  },
+  "homepage": "https://github.com/khalidhoffman/pug-php-filter#readme",
+  "devDependencies": {
+    "pug": "^2.0.0-beta6"
+  }
+}
