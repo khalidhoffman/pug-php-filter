@@ -4,7 +4,7 @@
   "description": "A php filter for pug",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,11 @@
   },
   "homepage": "https://github.com/khalidhoffman/pug-php-filter#readme",
   "devDependencies": {
-    "pug": "^2.0.0-beta6"
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "mocha": "^3.3.0",
+    "pug": "^2.0.0-beta6",
+    "through2": "^2.0.3"
   }
 }
